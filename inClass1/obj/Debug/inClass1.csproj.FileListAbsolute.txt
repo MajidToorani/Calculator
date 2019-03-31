@@ -28,3 +28,13 @@ C:/Users/Majid/Desktop/CONCEPT-II-PROG1815/InClass/inClass1/inClass1/obj/Debug/i
 /Users/majidtoorani/Desktop/2-CONCEPT-II-PROG1815/InClass/inClass1/inClass1/obj/Debug/inClass1.csproj.CoreCompileInputs.cache
 /Users/majidtoorani/Desktop/2-CONCEPT-II-PROG1815/InClass/inClass1/inClass1/obj/Debug/inClass1.exe
 /Users/majidtoorani/Desktop/2-CONCEPT-II-PROG1815/InClass/inClass1/inClass1/obj/Debug/inClass1.pdb
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\bin\Debug\inClass1.exe.config
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\bin\Debug\inClass1.exe
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\bin\Debug\inClass1.pdb
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\obj\Debug\inClass1.csprojAssemblyReference.cache
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\obj\Debug\inClass1.Form1.resources
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\obj\Debug\inClass1.Properties.Resources.resources
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\obj\Debug\inClass1.csproj.GenerateResource.cache
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\obj\Debug\inClass1.csproj.CoreCompileInputs.cache
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\obj\Debug\inClass1.exe
+H:\SEMESTER2\CONCEPT-II-PROG1815\assignments\Calculator\inClass1\obj\Debug\inClass1.pdb
